@@ -46,6 +46,11 @@
       "sha256": "ba69b3992e23fd0cc910b2c29a6150fe87db4f4dd659f1f22af7ba2440dff1cb"
     },
     {
+      "path": "assets/chibi/user.webp",
+      "bytes": 7922,
+      "sha256": "3b8a1010afffea6ca8ce362d69995539b755e5a8995da878657a8304639d113a"
+    },
+    {
       "path": "assets/chibi/yun-yuwei.webp",
       "bytes": 7014,
       "sha256": "b2c15c31a8cdf412b6713cbc739c381f0b5b3b2b303a61846fb6c5dd54945c6a"
@@ -74,6 +79,11 @@
       "path": "assets/locations/jielvtang.webp",
       "bytes": 93834,
       "sha256": "ef9270c583d9b4a660ad144683c03e8aa08e7b0edad10ad08e2e22e94a0c916a"
+    },
+    {
+      "path": "assets/locations/kefang-maoce.webp",
+      "bytes": 161382,
+      "sha256": "1d87a1d9e6aee5a40d7024f8fb36297caae24ad04c5fc345bddc5387ae2b992e"
     },
     {
       "path": "assets/locations/kefang.webp",
@@ -196,14 +206,19 @@
       "sha256": "15b437f0a79a6df6f5238f63073df67dbf62c654f3fd78e5599f343dbf98e1ea"
     },
     {
+      "path": "assets/portraits/user.webp",
+      "bytes": 22296,
+      "sha256": "5a5f680c533ad1229f761d5913b1ac32c3a4328227892540ed8e114fc5e5cf5c"
+    },
+    {
       "path": "assets/portraits/yun-yuwei.webp",
       "bytes": 125492,
       "sha256": "2f9089611e4da1d5d2110bccc0232a34255118347b8b11879c867898eba9e482"
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 109611,
-      "sha256": "45f1679b82adef8b8d615a6b9e1cdc5c2fb549c7670975f78121ca6b25b09bf2"
+      "bytes": 115713,
+      "sha256": "8fe952b9e775a40127f0a4e2ab962e1f20d47cd7c7aeb631ff1872da78869a71"
     }
   ]
 }

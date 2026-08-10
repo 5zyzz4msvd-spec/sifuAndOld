@@ -6,6 +6,41 @@
   "source_maps": false,
   "files": [
     {
+      "path": "assets/alchemy/beasts/chi-ling-fen-yuan.webp",
+      "bytes": 123600,
+      "sha256": "7ea8548607d912d72fb34ac345bd3f928a4547cd97c3678db2bb4ea133aea319"
+    },
+    {
+      "path": "assets/alchemy/beasts/ta-wu-ling-lu.webp",
+      "bytes": 69458,
+      "sha256": "7fd48b0f2b9432da5f889ff6789aa6ebb0e6a4d351321144e89ed31db0819aa5"
+    },
+    {
+      "path": "assets/alchemy/beasts/xuan-jia-yan-ni.webp",
+      "bytes": 113430,
+      "sha256": "c8fa0efbc937f59e2bb469c6acff40355f2eea67f1b890ad02c6f141c02cbe01"
+    },
+    {
+      "path": "assets/alchemy/brew-sprite.webp",
+      "bytes": 260714,
+      "sha256": "c484c2e17b69092836e63a073b5758baa0155aa2737b2099e2261bce11a189af"
+    },
+    {
+      "path": "assets/alchemy/crop-stages.webp",
+      "bytes": 194602,
+      "sha256": "e2e8c5617477830cc2bfa7cb1a7a3f9ac9ac8f73d34ccd6a09ccfdade85d4ffe"
+    },
+    {
+      "path": "assets/alchemy/furnace-room.webp",
+      "bytes": 245822,
+      "sha256": "41e642b18714a2b814fec5f7388e0028df93272443b6682736418d39410dfb9c"
+    },
+    {
+      "path": "assets/alchemy/garden-four-plots.webp",
+      "bytes": 557246,
+      "sha256": "7da2af91c22886b069224547a71cd57b219d5221fc6152863ad220f6d9def6df"
+    },
+    {
       "path": "assets/chibi/chu-lingshang.webp",
       "bytes": 7544,
       "sha256": "7abd552085184512355d8fd7fe28bfc007634ffaaf60a47dc13d0f8452dfe3cf"
@@ -232,8 +267,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 170303,
-      "sha256": "97633490f1728bf35e1746d2a40c14a3ae851aec166b57d8ff0eeec0974c500e"
+      "bytes": 195054,
+      "sha256": "ce08ddf6b3607d69700d6e138f561b9b3119eb2777e4b8c3f8e28734b2dd7676"
     }
   ]
 }

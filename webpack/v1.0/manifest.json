@@ -167,8 +167,8 @@
     },
     {
       "path": "assets/market/clothing-icons.webp",
-      "bytes": 279104,
-      "sha256": "d3f465fb9961ee0ae547ba3ecf2ba7d336f290b8c086ff2b45936562420e1555"
+      "bytes": 228490,
+      "sha256": "73cabc05af73390d4e2863895af8504175e799d5a2213b63664ae03bc8ab7880"
     },
     {
       "path": "assets/pet/alisa-drag-v5.png",
@@ -277,8 +277,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 226366,
-      "sha256": "1525a6cfff6f0a515669686d8c63789f6076481b8aeeda077c7c3ffdcc5326cf"
+      "bytes": 226783,
+      "sha256": "63c51c2dc031a4cb8b7402cb5d84938bccb7aa49fdb25fecc27a1ddfe94f9bf7"
     }
   ]
 }

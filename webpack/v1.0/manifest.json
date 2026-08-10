@@ -1,0 +1,204 @@
+{
+  "project_id": "qingxu-shizun-v1",
+  "release_version": "1.0",
+  "runtime_canary": "qx1-73c9-lotus-free-2e84",
+  "attribution": "@popidesk原创，@louisHM二改，完全免费。",
+  "source_maps": false,
+  "files": [
+    {
+      "path": "assets/chibi/chu-lingshang.webp",
+      "bytes": 7544,
+      "sha256": "7abd552085184512355d8fd7fe28bfc007634ffaaf60a47dc13d0f8452dfe3cf"
+    },
+    {
+      "path": "assets/chibi/ji-yunning.webp",
+      "bytes": 7898,
+      "sha256": "73c8e77296e1f36a925c0c38dc6a5efd6bc04b0b88f9f3e3bba8aa104494a8f3"
+    },
+    {
+      "path": "assets/chibi/lin-feng.webp",
+      "bytes": 8550,
+      "sha256": "cd413170be4cca6c92dba8c7e1dd7245fdd1fab54d68cdb36005a9bef611cc30"
+    },
+    {
+      "path": "assets/chibi/liu-sanbao.webp",
+      "bytes": 7398,
+      "sha256": "b3a42c2509a6429b9ef667ef0eefadabb39d5a4e9d77d8ccd107a6c8a5c207a5"
+    },
+    {
+      "path": "assets/chibi/shen-qixue.webp",
+      "bytes": 7874,
+      "sha256": "4a4e62dcf03f7ffcc51b9cb13d242eca1e772702a8fc2772dc1015f010e3a3d0"
+    },
+    {
+      "path": "assets/chibi/situ-wanqiu.webp",
+      "bytes": 8798,
+      "sha256": "522046db5f52a20af68db44add471b487af88731d58d67452be18d6f4d64da9f"
+    },
+    {
+      "path": "assets/chibi/situ-xia.webp",
+      "bytes": 8016,
+      "sha256": "ba492425a709ccce436a417f1e433242f32a1fa3fc5f9e0689b977d0ef2e819e"
+    },
+    {
+      "path": "assets/chibi/su-yanxi.webp",
+      "bytes": 8638,
+      "sha256": "ba69b3992e23fd0cc910b2c29a6150fe87db4f4dd659f1f22af7ba2440dff1cb"
+    },
+    {
+      "path": "assets/chibi/yun-yuwei.webp",
+      "bytes": 7014,
+      "sha256": "b2c15c31a8cdf412b6713cbc739c381f0b5b3b2b303a61846fb6c5dd54945c6a"
+    },
+    {
+      "path": "assets/locations/danyaotang.webp",
+      "bytes": 109486,
+      "sha256": "b33e31d8f191c088d1bd337e0b327af22625fafe5a31eefd528a0ead718729ee"
+    },
+    {
+      "path": "assets/locations/guanyunju.webp",
+      "bytes": 118044,
+      "sha256": "5fc75152c1c33fb463cc058a04a2291cdf843878da81dca42e15cad2b03c518a"
+    },
+    {
+      "path": "assets/locations/hantan-yuchi.webp",
+      "bytes": 152034,
+      "sha256": "d747f2c0a2c138baa7e2ca0f40947ca4cbdc446da1c0c9ff2f61a7e7d78b422a"
+    },
+    {
+      "path": "assets/locations/houshan-yaoyuan.webp",
+      "bytes": 201142,
+      "sha256": "cd64187fb1b97a733e3deedc33505e4bf6547f7953318c9f65350161e7cb50af"
+    },
+    {
+      "path": "assets/locations/jielvtang.webp",
+      "bytes": 93834,
+      "sha256": "ef9270c583d9b4a660ad144683c03e8aa08e7b0edad10ad08e2e22e94a0c916a"
+    },
+    {
+      "path": "assets/locations/kefang.webp",
+      "bytes": 80312,
+      "sha256": "6c2e8f8496b910e0c538a6a52b140035539990355e8563a22fe10c57f3f00ff8"
+    },
+    {
+      "path": "assets/locations/luoxuege.webp",
+      "bytes": 96818,
+      "sha256": "e404778138fb7107a915f445e8fa55b4442be49f1575b67cd923ee6f3d7a24c5"
+    },
+    {
+      "path": "assets/locations/neimen-dizi-ju.webp",
+      "bytes": 183850,
+      "sha256": "b0eb4ecdbe8f5c6544005a1ef33dce6b1cb3ecd8539bc77178ec6fd5f6a49aff"
+    },
+    {
+      "path": "assets/locations/shanmen.webp",
+      "bytes": 105916,
+      "sha256": "196f419a8a730473ac5f17ac8a1abf80203720dd049169b3854e88cfcef0b9ff"
+    },
+    {
+      "path": "assets/locations/waimen-dizi-ju.webp",
+      "bytes": 180954,
+      "sha256": "c42ad3c19287254102de71aef9e007ee20f240db7cb62084dbe1cc520dc39d7a"
+    },
+    {
+      "path": "assets/locations/yanwuchang.webp",
+      "bytes": 130920,
+      "sha256": "ec283b6cc4dd3edc270123dbba1de07e1227d8b939e14d1a1e539bda1a06aed4"
+    },
+    {
+      "path": "assets/locations/zuixiage.webp",
+      "bytes": 142970,
+      "sha256": "85d8f0eed48f0df511524e47090253698b83462180efaca393baef21375d5d97"
+    },
+    {
+      "path": "assets/map/qingxu-map.webp",
+      "bytes": 394540,
+      "sha256": "5acd20aa43b862da0fd0da4817811742b7bdce31c308b5ab31869f4d75a4365d"
+    },
+    {
+      "path": "assets/pet/alisa-drag-v5.png",
+      "bytes": 43810,
+      "sha256": "b1bbbe3475520c157bbaae632f505c4e1f45a33b90088451f279c8a01933367d"
+    },
+    {
+      "path": "assets/pet/alisa-enter-v5.png",
+      "bytes": 94946,
+      "sha256": "7f24c3b49b9ad981ca08b216973ac622ae59c3ed723b700b2b40396563c73a56"
+    },
+    {
+      "path": "assets/pet/alisa-exit-v5.png",
+      "bytes": 94947,
+      "sha256": "8f5219d78d89819fa166757fddc76e346c71b2c30fd8d9bcca4f7f20cc0c89ce"
+    },
+    {
+      "path": "assets/pet/alisa-idle-v5.png",
+      "bytes": 75397,
+      "sha256": "b3552fa9ec87138a23fdcbcfadcb1ce6d675226cb6c22caa1080a9fa76fd03fc"
+    },
+    {
+      "path": "assets/pet/alisa-landing-v5.png",
+      "bytes": 252003,
+      "sha256": "824e188979ec69520719d6db4bfeddeec4e0beb26e3a0928bd45f70d95b8a303"
+    },
+    {
+      "path": "assets/pet/alisa-unique-a-v5.png",
+      "bytes": 75475,
+      "sha256": "e1d8ff7bed88054e8de9b73b2d5968466e36507c497e306db2424ad167473030"
+    },
+    {
+      "path": "assets/pet/alisa-unique-b-v5.png",
+      "bytes": 78610,
+      "sha256": "71554ddcb0559cdcf1311c517e46a86097b6b1d245a7434b526e21981dd96b18"
+    },
+    {
+      "path": "assets/portraits/chu-lingshang.webp",
+      "bytes": 42496,
+      "sha256": "f477896c30360acf3ee4c2d3a59d7195e4c6d149ec3703ee6052642e45d80218"
+    },
+    {
+      "path": "assets/portraits/ji-yunning.webp",
+      "bytes": 21394,
+      "sha256": "d4350100dd6d10115926dd9231dcdd4a349e3996414f3e1137b09b9bf76c2890"
+    },
+    {
+      "path": "assets/portraits/lin-feng.webp",
+      "bytes": 24202,
+      "sha256": "7f7c00ca3617140cba3e57b3628eeece370db606d33531e9f63f9e1ab2217865"
+    },
+    {
+      "path": "assets/portraits/liu-sanbao.webp",
+      "bytes": 22380,
+      "sha256": "7f10dd0937d4db3e28f2d3b4466e15360d619a64f7bbd0116fbdedf1a13faa23"
+    },
+    {
+      "path": "assets/portraits/shen-qixue.webp",
+      "bytes": 36274,
+      "sha256": "138442be35e7031d699a4d4248301c5a6b51cf3482cacd4575ec43aebe1ce992"
+    },
+    {
+      "path": "assets/portraits/situ-wanqiu.webp",
+      "bytes": 24254,
+      "sha256": "3b4b063df8e8fbaf7a8834a4988f5d7a2095d353da01c02531ea4ba9576ec7ea"
+    },
+    {
+      "path": "assets/portraits/situ-xia.webp",
+      "bytes": 20276,
+      "sha256": "b47c86c166ff3ca339bcc5294543e9550e2aae59654a79bd0377d1544040a4b1"
+    },
+    {
+      "path": "assets/portraits/su-yanxi.webp",
+      "bytes": 68414,
+      "sha256": "d59ac9db82d6c163f913b47e04b32b37a4f91b380a91036b5faac6185f2846f3"
+    },
+    {
+      "path": "assets/portraits/yun-yuwei.webp",
+      "bytes": 30166,
+      "sha256": "d5dd440a393fda56778952103522ac9292a2099439bb8ade3a686bf5e8f891f3"
+    },
+    {
+      "path": "qingxu.bundle.js",
+      "bytes": 59927,
+      "sha256": "d4198bd4b9e4a27ba233c8d69dba2cf1316e67e7d16e0557e6cc6bffde3dad3d"
+    }
+  ]
+}

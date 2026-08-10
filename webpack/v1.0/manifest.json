@@ -216,9 +216,24 @@
       "sha256": "2f9089611e4da1d5d2110bccc0232a34255118347b8b11879c867898eba9e482"
     },
     {
+      "path": "assets/technique-covers/dao.webp",
+      "bytes": 98592,
+      "sha256": "3106cbd94d83aa114cce8d7ea391d7f3a2856a5894e4154f7eb54145f70fc8f9"
+    },
+    {
+      "path": "assets/technique-covers/mystic.webp",
+      "bytes": 90630,
+      "sha256": "a243bc04ed41226b5600584a3905c1c145ffa049942c124cadf1c93b78cc7a84"
+    },
+    {
+      "path": "assets/technique-covers/sword.webp",
+      "bytes": 98474,
+      "sha256": "b80d5dc14132e9c22909a3564421009ac70808018938ebe39862cd83f4fde764"
+    },
+    {
       "path": "qingxu.bundle.js",
-      "bytes": 134548,
-      "sha256": "1dbd06f0155bd18b22e8f171f841672e2cc6b61ce6e787cb41adce82f86eb547"
+      "bytes": 170303,
+      "sha256": "97633490f1728bf35e1746d2a40c14a3ae851aec166b57d8ff0eeec0974c500e"
     }
   ]
 }

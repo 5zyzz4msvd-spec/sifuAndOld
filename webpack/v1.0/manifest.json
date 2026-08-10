@@ -172,8 +172,8 @@
     },
     {
       "path": "assets/portraits/shen-qixue-location.webp",
-      "bytes": 102050,
-      "sha256": "735dd54705c6e6f9d3698ed98de23de4e7718a008eb90de8a4e3a6970a81149c"
+      "bytes": 81664,
+      "sha256": "d13a71c1c9dd23a371e6cf37fea1e81e32601f55b57c39d28b120f23b1b7ac67"
     },
     {
       "path": "assets/portraits/shen-qixue.webp",
@@ -202,8 +202,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 63748,
-      "sha256": "79183cfe2fd873060ba21db962958f847a12c01348e33d18c35a9d6128e05511"
+      "bytes": 75009,
+      "sha256": "7a2c40059fe7d5a46d45ade3a989528b41255f04e426ab4def73256836999f03"
     }
   ]
 }

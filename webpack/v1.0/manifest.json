@@ -146,6 +146,11 @@
       "sha256": "c42ad3c19287254102de71aef9e007ee20f240db7cb62084dbe1cc520dc39d7a"
     },
     {
+      "path": "assets/locations/waimen-heishi.webp",
+      "bytes": 159818,
+      "sha256": "cbd9caca7e56f7e3e971daf5c0d72c9a630f303cb5a2e22a77147674eccaf1dc"
+    },
+    {
       "path": "assets/locations/yanwuchang.webp",
       "bytes": 130920,
       "sha256": "ec283b6cc4dd3edc270123dbba1de07e1227d8b939e14d1a1e539bda1a06aed4"
@@ -159,6 +164,11 @@
       "path": "assets/map/qingxu-map.webp",
       "bytes": 394540,
       "sha256": "5acd20aa43b862da0fd0da4817811742b7bdce31c308b5ab31869f4d75a4365d"
+    },
+    {
+      "path": "assets/market/clothing-icons.webp",
+      "bytes": 279104,
+      "sha256": "d3f465fb9961ee0ae547ba3ecf2ba7d336f290b8c086ff2b45936562420e1555"
     },
     {
       "path": "assets/pet/alisa-drag-v5.png",
@@ -267,8 +277,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 209139,
-      "sha256": "88cb6420e4cc32df3bf6df8b82132d138962ff8b08f59ffb95504518c2422878"
+      "bytes": 226366,
+      "sha256": "1525a6cfff6f0a515669686d8c63789f6076481b8aeeda077c7c3ffdcc5326cf"
     }
   ]
 }

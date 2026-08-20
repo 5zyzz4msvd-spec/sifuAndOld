@@ -76,6 +76,11 @@
       "sha256": "5b7506a5623bec24d0c6b980907561f75086cb59fe96aa1ab3b24b168d78d52b"
     },
     {
+      "path": "assets/chibi/slave-xingli.webp",
+      "bytes": 31002,
+      "sha256": "9ada50e8bb5f8f7b7713cb09236cac7a7b85712881361f33ae706b228ec22d21"
+    },
+    {
       "path": "assets/chibi/su-yanxi.webp",
       "bytes": 12290,
       "sha256": "a79ac1e1c1b3a5bb30612881c2a99cebb5a7c052a165da3f761354433965b6c1"
@@ -131,9 +136,24 @@
       "sha256": "b0eb4ecdbe8f5c6544005a1ef33dce6b1cb3ecd8539bc77178ec6fd5f6a49aff"
     },
     {
+      "path": "assets/locations/phantom-summon-platform-v2.3.webp",
+      "bytes": 101222,
+      "sha256": "5d4d8b26af152ef840a7b9a1741b16d4c397b9c1dbb202ec2c00b28a4050811d"
+    },
+    {
+      "path": "assets/locations/qingqiu-residence-v2.3.webp",
+      "bytes": 92722,
+      "sha256": "448808a62eda962497e9bd9f126bc1a08365bd8ec59e14d07e2b85093e6b1237"
+    },
+    {
       "path": "assets/locations/shanmen.webp",
       "bytes": 105916,
       "sha256": "196f419a8a730473ac5f17ac8a1abf80203720dd049169b3854e88cfcef0b9ff"
+    },
+    {
+      "path": "assets/locations/taishang-residence-v2.3.webp",
+      "bytes": 124906,
+      "sha256": "608f59d675133652c3a33680f9bf2494a8577b00996b9340ef27d7fb146c77a0"
     },
     {
       "path": "assets/locations/waimen-dizi-ju.webp",
@@ -144,6 +164,21 @@
       "path": "assets/locations/waimen-heishi.webp",
       "bytes": 159818,
       "sha256": "cbd9caca7e56f7e3e971daf5c0d72c9a630f303cb5a2e22a77147674eccaf1dc"
+    },
+    {
+      "path": "assets/locations/wanxiang-house-v2.3.webp",
+      "bytes": 115396,
+      "sha256": "8d495ea6d9460a90cdc0f7342e1475077cbc569a1dd944bbfe443d7d3d2d5c9b"
+    },
+    {
+      "path": "assets/locations/wanxiang-market-v2.3.webp",
+      "bytes": 112586,
+      "sha256": "a67914f3de18c11b5102878518587ca57bf379953963e6042786f6fed5107488"
+    },
+    {
+      "path": "assets/locations/world-map-v2.3.webp",
+      "bytes": 125230,
+      "sha256": "44bede887542b18f34a5650111f2b4b1a03af0058153b67f9ab954f1c7d595c2"
     },
     {
       "path": "assets/locations/yanwuchang.webp",
@@ -541,6 +576,71 @@
       "sha256": "51781d146524d0760ccd14240331e4eadc4caab7cc88422a9edbba9fb64a2024"
     },
     {
+      "path": "assets/portraits/slave/slave-clothing-bodypaint.webp",
+      "bytes": 213538,
+      "sha256": "2f4df97105427b3d2b8f0c49c05af9569b7818fc503d281541cabb96bb31eef6"
+    },
+    {
+      "path": "assets/portraits/slave/slave-clothing-cord.webp",
+      "bytes": 161648,
+      "sha256": "e34eca863996c36c16bf6ccae2e065b26f1852c19c6ef95a29bf18150601228e"
+    },
+    {
+      "path": "assets/portraits/slave/slave-clothing-hehuan.webp",
+      "bytes": 169904,
+      "sha256": "78c3eee6ed1e543c4ed1d9f062062133859353563ec16c7359e74e2ec4f2afe1"
+    },
+    {
+      "path": "assets/portraits/slave/slave-clothing-qipao.webp",
+      "bytes": 133380,
+      "sha256": "c9a939bcfa324d059a02f52efeb89c2e9b4bf1f07af5b619d56327bc2379cd3a"
+    },
+    {
+      "path": "assets/portraits/slave/slave-clothing-remnant.webp",
+      "bytes": 155470,
+      "sha256": "38e4de83cdd332e23d4f8c23b730cdb03ec3c2ec3056654f48cd8337df08a61f"
+    },
+    {
+      "path": "assets/portraits/slave/slave-clothing-rubber.webp",
+      "bytes": 112520,
+      "sha256": "d27c3145fb63cd283ab5fea88e97a354c21e9a6dfcda53fa074a5443d16e488c"
+    },
+    {
+      "path": "assets/portraits/slave/slave-liu-suit.webp",
+      "bytes": 151432,
+      "sha256": "4d162cbf25da6ac0ebab55f941fb613c9a846823e5dcaf4cf9765173d64808ab"
+    },
+    {
+      "path": "assets/portraits/slave/slave-normal-stage1.webp",
+      "bytes": 133200,
+      "sha256": "f960cea123c3c7179ee17cb3b1d3397bb377173921c337b7e23deac8ecbcd431"
+    },
+    {
+      "path": "assets/portraits/slave/slave-normal-stage5.webp",
+      "bytes": 131514,
+      "sha256": "7caf848ca0019f96008f9bb9dc071357792d3c27b16410bcdac576922f93d467"
+    },
+    {
+      "path": "assets/portraits/slave/slave-normal-stage8.webp",
+      "bytes": 199702,
+      "sha256": "59ad76c0a88607109c550adefccff3fdddbed6e0d013be112172b439082b75d1"
+    },
+    {
+      "path": "assets/portraits/slave/slave-nude.webp",
+      "bytes": 131544,
+      "sha256": "033f075dbc61c0d76c129e3550beed230852a870de645151adf79799695672a9"
+    },
+    {
+      "path": "assets/portraits/slave/slave-stage7-unique.webp",
+      "bytes": 269968,
+      "sha256": "0bbd98593f775850b557a1a1ebaa6c175c12155f974336c07fdc03cb8611356e"
+    },
+    {
+      "path": "assets/portraits/slave/slave-wedding.webp",
+      "bytes": 390536,
+      "sha256": "2f282f131f06e49dceff50dbb8eb9b2237544a7b3385b37889c6f993481749ae"
+    },
+    {
       "path": "assets/portraits/su-yanxi.webp",
       "bytes": 235784,
       "sha256": "15b437f0a79a6df6f5238f63073df67dbf62c654f3fd78e5599f343dbf98e1ea"
@@ -602,8 +702,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 477037,
-      "sha256": "05fdce1a9a8e47d99de0e27e7ac2c43cc84a0970fc2aefd6a58a51271b45e263"
+      "bytes": 592361,
+      "sha256": "777549822689bef793eefc1cee53298ee1f0d536899fa05ade8eaab59e354797"
     }
   ]
 }

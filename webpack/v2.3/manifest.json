@@ -181,6 +181,11 @@
       "sha256": "a67914f3de18c11b5102878518587ca57bf379953963e6042786f6fed5107488"
     },
     {
+      "path": "assets/locations/wanxiang-slave-market-v2.3.webp",
+      "bytes": 310490,
+      "sha256": "f8683471763490ab12261357baf9e6072df9cee92fcd38cdf71708e773aaa64c"
+    },
+    {
       "path": "assets/locations/yanwuchang.webp",
       "bytes": 130920,
       "sha256": "ec283b6cc4dd3edc270123dbba1de07e1227d8b939e14d1a1e539bda1a06aed4"
@@ -252,8 +257,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 1424977,
-      "sha256": "c5f285615c6ac9299e94d24ba00449d5e0409dabd582241d90f645ef68a7b559"
+      "bytes": 1430293,
+      "sha256": "42d15f413a97e858fd8fcf90b2a3d7721fe37893f5759aa3bb44d3c0bd1f3352"
     }
   ]
 }

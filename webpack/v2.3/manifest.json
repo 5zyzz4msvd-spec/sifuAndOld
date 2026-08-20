@@ -236,6 +236,11 @@
       "sha256": "71554ddcb0559cdcf1311c517e46a86097b6b1d245a7434b526e21981dd96b18"
     },
     {
+      "path": "assets/phantom-demo/makima-demo.png",
+      "bytes": 1635603,
+      "sha256": "24273612bb351ffed236d53dc250f4c8feab65e87b088b4fab2084149e9ce277"
+    },
+    {
       "path": "assets/technique-covers/dao.webp",
       "bytes": 98592,
       "sha256": "3106cbd94d83aa114cce8d7ea391d7f3a2856a5894e4154f7eb54145f70fc8f9"
@@ -257,8 +262,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 1463595,
-      "sha256": "e6d6a5be2f1ffea38c39fbb29cde1abc2ab0807a41312eb9bad0e33bda140ae1"
+      "bytes": 1467437,
+      "sha256": "fda23d42a7c01db9359c3fd9dda8963ed1a975f4281792235a84c47e1901215d"
     }
   ]
 }

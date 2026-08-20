@@ -91,6 +91,11 @@
       "sha256": "ed0771932d82e894e0c74c4937dd22d23ad43cb5b6cd0ac485686a09571ac83a"
     },
     {
+      "path": "assets/locations/beast-grove-v2.3.webp",
+      "bytes": 171294,
+      "sha256": "291510fb91d1334b12b0a385458551047946bf72bd0448b8a65ea00f7148ee46"
+    },
+    {
       "path": "assets/locations/danyaotang.webp",
       "bytes": 109486,
       "sha256": "b33e31d8f191c088d1bd337e0b327af22625fafe5a31eefd528a0ead718729ee"
@@ -176,11 +181,6 @@
       "sha256": "a67914f3de18c11b5102878518587ca57bf379953963e6042786f6fed5107488"
     },
     {
-      "path": "assets/locations/world-map-v2.3.webp",
-      "bytes": 125230,
-      "sha256": "44bede887542b18f34a5650111f2b4b1a03af0058153b67f9ab954f1c7d595c2"
-    },
-    {
       "path": "assets/locations/yanwuchang.webp",
       "bytes": 130920,
       "sha256": "ec283b6cc4dd3edc270123dbba1de07e1227d8b939e14d1a1e539bda1a06aed4"
@@ -189,11 +189,6 @@
       "path": "assets/locations/zuixiage.webp",
       "bytes": 142970,
       "sha256": "85d8f0eed48f0df511524e47090253698b83462180efaca393baef21375d5d97"
-    },
-    {
-      "path": "assets/map/qingxu-map.webp",
-      "bytes": 394540,
-      "sha256": "5acd20aa43b862da0fd0da4817811742b7bdce31c308b5ab31869f4d75a4365d"
     },
     {
       "path": "assets/market/clothing-icons.webp",
@@ -257,8 +252,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 619896,
-      "sha256": "88bd914d34265e3c30e27d6cc43b0457df4f0c67388ece9a98717562621063f5"
+      "bytes": 1407660,
+      "sha256": "d8f40014436711cd486f57cf2afe27702a48beab86c2eeec84e0f9571ac56388"
     }
   ]
 }

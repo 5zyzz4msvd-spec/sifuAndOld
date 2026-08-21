@@ -11,6 +11,11 @@
       "sha256": "7ea8548607d912d72fb34ac345bd3f928a4547cd97c3678db2bb4ea133aea319"
     },
     {
+      "path": "assets/alchemy/beasts/mo-yu-long.webp",
+      "bytes": 556692,
+      "sha256": "53dd2097a73fc7c12980fa7865268160f7b298868abeb87141773c698c403467"
+    },
+    {
       "path": "assets/alchemy/beasts/ta-wu-ling-lu.webp",
       "bytes": 69458,
       "sha256": "7fd48b0f2b9432da5f889ff6789aa6ebb0e6a4d351321144e89ed31db0819aa5"
@@ -151,6 +156,11 @@
       "sha256": "5d4d8b26af152ef840a7b9a1741b16d4c397b9c1dbb202ec2c00b28a4050811d"
     },
     {
+      "path": "assets/locations/qicao-gudong-v2.4-r16.webp",
+      "bytes": 272042,
+      "sha256": "5c4c0e01f02ec3a39a4539b48b8fc779c72cfbcf81ecc1c3cb9aa7249a61fb7a"
+    },
+    {
       "path": "assets/locations/qingqiu-residence-v2.3.webp",
       "bytes": 92722,
       "sha256": "448808a62eda962497e9bd9f126bc1a08365bd8ec59e14d07e2b85093e6b1237"
@@ -194,6 +204,11 @@
       "path": "assets/locations/yanwuchang.webp",
       "bytes": 130920,
       "sha256": "ec283b6cc4dd3edc270123dbba1de07e1227d8b939e14d1a1e539bda1a06aed4"
+    },
+    {
+      "path": "assets/locations/zhengxinju-v2.4-r16.webp",
+      "bytes": 238380,
+      "sha256": "d43cf62fa554305902be468672e8a902a050ee56664ee370044039eeb6530d70"
     },
     {
       "path": "assets/locations/zuixiage.webp",
@@ -277,8 +292,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 1551726,
-      "sha256": "fa6e3ea4e17f1807b0d224ea19be55fef789b4326fb60a0168f7d896749dc600"
+      "bytes": 1568467,
+      "sha256": "db40f7b2faa1f6bfacc43bf32d66ecbfd51119e6bcf3322be8796d061cacaed9"
     }
   ]
 }

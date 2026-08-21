@@ -236,74 +236,14 @@
       "sha256": "71554ddcb0559cdcf1311c517e46a86097b6b1d245a7434b526e21981dd96b18"
     },
     {
-      "path": "assets/phantom-demo/makima/black-1.png",
-      "bytes": 2352927,
-      "sha256": "1f240535f5ce1fbca592b836b1619daea34a886fdec6370e6549733229f69ff0"
-    },
-    {
-      "path": "assets/phantom-demo/makima/black-2.png",
-      "bytes": 1779664,
-      "sha256": "43c3535fc5bc44ed33ad6d30e66bdf00b8403f9933a8b957df49bf9c4ce0d7a7"
-    },
-    {
-      "path": "assets/phantom-demo/makima/black-3.png",
-      "bytes": 1785943,
-      "sha256": "4eb30cc56ab9dc15b18c0943caf3ac1b98e17ca9fe95a1677faaee4164736a41"
-    },
-    {
-      "path": "assets/phantom-demo/makima/black-4.png",
-      "bytes": 1889918,
-      "sha256": "284bf446ad44d974fd2e2580103eebd2b15283283e33f562b41ceae7bc954d3f"
-    },
-    {
-      "path": "assets/phantom-demo/makima/black-5.png",
-      "bytes": 1836491,
-      "sha256": "f690f54421ff4bdfb657eec3f7b7cfcf4a44fe83291e31cd8be75d284f8e20d3"
-    },
-    {
-      "path": "assets/phantom-demo/makima/black-6.png",
-      "bytes": 1957386,
-      "sha256": "3b1c5e5d599df5598f466f7fa7a2b7ded5153a4b25542777cc0b578102528f82"
-    },
-    {
       "path": "assets/phantom-demo/makima/chibi.png",
       "bytes": 1210472,
       "sha256": "5e0cd99899c4d78b56921084b617efc06b13920453a5e7d3f7e09e09741ded8f"
     },
     {
-      "path": "assets/phantom-demo/makima/liu-suit.png",
-      "bytes": 1994073,
-      "sha256": "97368fa65d938935b4bb6a5e2c1e674c257c444db68d99abf85e18470bd7d901"
-    },
-    {
       "path": "assets/phantom-demo/makima/normal-1.png",
       "bytes": 1430211,
       "sha256": "50e505d23beb6d567a6dea8e5e5119d78f31bcb4ec835e28ae4124ee34c8733e"
-    },
-    {
-      "path": "assets/phantom-demo/makima/normal-2.png",
-      "bytes": 1202653,
-      "sha256": "7c64443af1f6af180a49347a60311236c63a9debc42baf652d19954c88fd812f"
-    },
-    {
-      "path": "assets/phantom-demo/makima/normal-3.png",
-      "bytes": 1836811,
-      "sha256": "9c5d406e1aa3f153397610a8ecd444edface4c0b1a13f84c6852da536e66c4b1"
-    },
-    {
-      "path": "assets/phantom-demo/makima/nude.png",
-      "bytes": 1678806,
-      "sha256": "de54ece8ba3e18f2632e58900655f512b8beb75111bcfd3a162e532e5ec8dd20"
-    },
-    {
-      "path": "assets/phantom-demo/makima/stage-7.png",
-      "bytes": 1938008,
-      "sha256": "71cc8a44c4d71c059403ef91a536ce140c1d37f0af5ea23a865e19eab867eebe"
-    },
-    {
-      "path": "assets/phantom-demo/makima/wedding.png",
-      "bytes": 2125937,
-      "sha256": "4c430e051446880ad0b65f0b85519d6b7f035e4d1d34733101f2e49febaf9eb1"
     },
     {
       "path": "assets/technique-covers/dao.webp",
@@ -327,8 +267,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 1470509,
-      "sha256": "bffb4f87cdf6d9abb83d5c871d3d14c66c822727a9d27d8e6d727dd6faaad710"
+      "bytes": 1469413,
+      "sha256": "b79059af91991a63329945a246712d9816db3a1a3a2a118804cc135f6d3f10ad"
     }
   ]
 }

@@ -241,6 +241,11 @@
       "sha256": "71554ddcb0559cdcf1311c517e46a86097b6b1d245a7434b526e21981dd96b18"
     },
     {
+      "path": "assets/phantom-demo/ji-yunshuang/chibi.png",
+      "bytes": 2735738,
+      "sha256": "071a90d3fb98e0459417904d3fd464a1422122416c701135e71130f651ca6d9c"
+    },
+    {
       "path": "assets/phantom-demo/makima/chibi.png",
       "bytes": 1210472,
       "sha256": "5e0cd99899c4d78b56921084b617efc06b13920453a5e7d3f7e09e09741ded8f"
@@ -272,8 +277,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 1537893,
-      "sha256": "32c0aa4b6fce9d66036b489ca28c436d55f590631b010e898e0afd4d1821c462"
+      "bytes": 1548738,
+      "sha256": "e1be4e41315f02ba42786e40c14c54a1f166e7ba640f5f61354cd293152c13e3"
     }
   ]
 }

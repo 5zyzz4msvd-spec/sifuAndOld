@@ -96,6 +96,11 @@
       "sha256": "291510fb91d1334b12b0a385458551047946bf72bd0448b8a65ea00f7148ee46"
     },
     {
+      "path": "assets/locations/cold-pool-board-v2.4-r13.webp",
+      "bytes": 151554,
+      "sha256": "4d09045027d6ab84d99f9284c2cb7423aa388e3c9401dabf2d6806b438d7e6ab"
+    },
+    {
       "path": "assets/locations/danyaotang.webp",
       "bytes": 109486,
       "sha256": "b33e31d8f191c088d1bd337e0b327af22625fafe5a31eefd528a0ead718729ee"
@@ -267,8 +272,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 1526825,
-      "sha256": "1151e0ee501d781862dfbb0d37856d1ebfae47ff7a2db0777e72e6d18f991c8b"
+      "bytes": 1537893,
+      "sha256": "32c0aa4b6fce9d66036b489ca28c436d55f590631b010e898e0afd4d1821c462"
     }
   ]
 }

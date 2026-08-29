@@ -32,8 +32,8 @@
     },
     {
       "path": "assets/alchemy/beasts/wuxiang-mixed.webp",
-      "bytes": 520932,
-      "sha256": "685efa10e3ed685806a334bce614a2896af43d17d5a62a74f7a0eb6c0ebead7b"
+      "bytes": 814832,
+      "sha256": "08aa59d048ec703d1987f72467714131ae090e78b0f8e3ba62ec79a77143b462"
     },
     {
       "path": "assets/alchemy/beasts/wuxiang-shen.webp",
@@ -322,8 +322,8 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 5500835,
-      "sha256": "2d770d684a68ef1145890076ad76809303658e73d144e883ecaf06f7bf9e0c27"
+      "bytes": 5501231,
+      "sha256": "29b67be685f43cfc4a374b201adddde76dcd1e947148bf7ac65eeed04b8fa994"
     }
   ]
 }
